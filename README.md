@@ -48,4 +48,4 @@ Below is the dashboard of what your Pi-Hole should look like.
 
 You will have to now tell your router to use the Pi-Hole. For me this is done in my routers app as it does not have a web dashboard. I headed to the app and went into DNS settings. Finally I changed the DNS to the IP that we used earlier to use it as our DNS instead. Finally reboot your router if it has already not given you the option to.
 
-Just like that you have Pi-Hole in a Docker Ccontainer.
+Just like that you have Pi-Hole in a Docker Container.
