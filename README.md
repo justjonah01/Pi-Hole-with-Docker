@@ -1,6 +1,7 @@
 # Pi-Hole-with-Docker on Windows
 ### Project showcasing how I set up Pi-Hole inside a Docker container.
 This document both a reference for me and a guide for beginners.
+Do let me know if I need to make any changes.
 
 ## 1. Install Docker Desktop and Set Up
 
@@ -23,7 +24,7 @@ The command for making a file in Powershell is New-Item so the command is "New-I
 
 ## 3. The Fun Part
 
-Now we actually are able to get into cool stuff.
+Now we actually are able to get into the cool stuff.
 
 Inside the project folder, run the command "docker compose up -d" in Powershell. If you see a bunch of stuff starting to run, you are on the right track!
 
